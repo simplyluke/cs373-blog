@@ -17,7 +17,7 @@ title: Luke Wright | CS373 blog
 description: >- # this means to ignore newlines until "baseurl:"
   This is the blog I'll be updating as I go through CS373: Software Engineering
   in the spring of 2018.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/cs373-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  simplyluke
 
