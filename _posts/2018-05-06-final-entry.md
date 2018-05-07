@@ -19,7 +19,7 @@ This was by far the most teamwork intensive class I've taken in college, includi
 
 ## How many hours a week did you spend coding for this class?
 
-On average probably 3-5.
+It really depended on the week - we had weeks where we didn't touch the code base and weeks where I spent 10-15 hours on the project. We were good at dividing work up so I never had any super crazy weeks.
 
 ## How many hours a week did you spend reading for this class?
 
@@ -40,3 +40,6 @@ I had barely used postman before and none of its advanced features and I was blo
 ## If you could change one thing about the course, what would it be?
 
 I think the biggest improvement to the experience of the course would be tailoring the lectures to be a little more closely related to the technologies being used in the projects.
+
+
+Overall I really enjoyed this class and found it to be one of the most useful courses I've taken in my time here at UT - I'm hoping to find other upper division classes that are similar in terms of the amount I can learn in a semester before I graduate and would recommend the class to anyone looking to go into the tech industry as a software engineer.
